@@ -9,6 +9,6 @@ additionalProperties:
   type: tool
   crossVersionUpdate: true
   limit: 0
-  website: https://github.com/talentestors/OI-Bot/
-  github: https://github.com/talentestors/OI-Bot/
-  document: https://github.com/talentestors/OI-Bot/blob/main/README.md
+  website: https://github.com/yuhiri/OI-Bot/
+  github: https://github.com/yuhiri/OI-Bot/
+  document: https://github.com/yuhiri/OI-Bot/blob/main/README.md

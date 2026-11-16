@@ -1,6 +1,6 @@
 services:
   oi-bot:
-    image: ghcr.io/talentestors/oi-bot:3.1.0
+    image: ghcr.io/yuhiri/oi-bot:3.1.0
     container_name: ${CONTAINER_NAME}
     restart: unless-stopped
     networks:

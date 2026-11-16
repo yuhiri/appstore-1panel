@@ -7,7 +7,7 @@
 ## 📱 精选应用
 
 - [NapCat](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
-- [OI-Bot](https://github.com/talentestors/OI-Bot/) - A chatbot based on the Nonebot2 framework to provide relevant information for OIers and ACMers.
+- [OI-Bot](https://github.com/yuhiri/OI-Bot/) - A chatbot based on the Nonebot2 framework to provide relevant information for OIers and ACMers.
 
 ## ✨ 功能
 
@@ -22,14 +22,14 @@
 运行以下单个命令以下载并执行安装脚本：
 
 ```bash
-bash <(curl -sL "https://raw.githubusercontent.com/talentestors/appstore-1panel/refs/heads/main/install_app.sh")
+bash <(curl -sL "https://raw.githubusercontent.com/yuhiri/appstore-1panel/refs/heads/main/install_app.sh")
 ```
 
 **替代镜像（中国大陆用户使用）：**
 
 ```bash
 # 使用 Gitee 镜像（推荐中国大陆使用）
-bash <(curl -sL "https://gitee.com/talentestors/appstore-1panel/raw/main/install_app.sh")
+bash <(curl -sL "https://gitee.com/yuhiri/appstore-1panel/raw/main/install_app.sh")
 ```
 
 ### 安装
@@ -49,10 +49,10 @@ bash <(curl -sL "https://gitee.com/talentestors/appstore-1panel/raw/main/install
 ```bash
 # 克隆代码仓库（选择你的镜像）
 # 官方 GitHub
-git clone -b main https://github.com/talentestors/appstore-1panel.git
+git clone -b main https://github.com/yuhiri/appstore-1panel.git
 
 # 或者使用 Gitee 镜像（在中国更快）
-git clone -b main https://gitee.com/talentestors/appstore-1panel.git
+git clone -b main https://gitee.com/yuhiri/appstore-1panel.git
 
 # 进入目录
 cd appstore-1panel

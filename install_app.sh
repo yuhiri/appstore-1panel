@@ -11,11 +11,11 @@ APP_STORE_DIR="$BASE_DIR/1panel/resource/apps/local/appstore-localApps"
 LOCAL_DIR="$BASE_DIR/1panel/resource/apps/local"
 DEST_ENVS_DIR="/etc/1panel/envs"
 
-echo "$(date): Starting 1Panel appstore installation from talentestors/appstore-1panel (main)"
+echo "$(date): Starting 1Panel appstore installation from yuhiri/appstore-1panel (main)"
 
 # 克隆仓库
 rm -rf "$APP_STORE_DIR"
-git clone --depth 1 -b main https://github.com/talentestors/appstore-1panel "$APP_STORE_DIR" || exit 1
+git clone --depth 1 -b main https://github.com/yuhiri/appstore-1panel "$APP_STORE_DIR" || exit 1
 
 # 复制应用
 for app_dir in "$APP_STORE_DIR/apps"/*; do

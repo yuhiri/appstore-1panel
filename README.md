@@ -7,7 +7,7 @@ A custom application store for [1Panel](https://github.com/1Panel-dev/1Panel) fe
 ## 📱 Featured Applications
 
 - [NapCat](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
-- [OI-Bot](https://github.com/talentestors/OI-Bot/) - A chatbot based on the Nonebot2 framework to provide relevant information for OIers and ACMers.
+- [OI-Bot](https://github.com/yuhiri/OI-Bot/) - A chatbot based on the Nonebot2 framework to provide relevant information for OIers and ACMers.
 
 ## ✨ Features
 
@@ -22,14 +22,14 @@ A custom application store for [1Panel](https://github.com/1Panel-dev/1Panel) fe
 Run this single command to download and execute the installation script:
 
 ```bash
-bash <(curl -sL "https://raw.githubusercontent.com/talentestors/appstore-1panel/refs/heads/main/install_app.sh")
+bash <(curl -sL "https://raw.githubusercontent.com/yuhiri/appstore-1panel/refs/heads/main/install_app.sh")
 ```
 
 **Alternative mirrors (for mainland China users):**
 
 ```bash
 # Using Gitee mirror (recommended for China)
-bash <(curl -sL "https://gitee.com/talentestors/appstore-1panel/raw/main/install_app.sh")
+bash <(curl -sL "https://gitee.com/yuhiri/appstore-1panel/raw/main/install_app.sh")
 ```
 
 ### Installation
