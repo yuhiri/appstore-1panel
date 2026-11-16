@@ -8,6 +8,7 @@
 
 - [NapCat](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [OI-Bot](https://github.com/yuhiri/OI-Bot/) - A chatbot based on the Nonebot2 framework to provide relevant information for OIers and ACMers.
+- [Moe Counter](https://github.com/journey-ad/Moe-Counter) - A cute visitor counter with multiple themes.
 
 ## ✨ 功能
 

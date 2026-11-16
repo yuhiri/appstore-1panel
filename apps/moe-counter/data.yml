@@ -1,0 +1,27 @@
+name: Moe Counter
+tags:
+    - 实用工具
+title: 多种风格可选的萌萌访客计数器
+description: 多种风格可选的萌萌访客计数器
+additionalProperties:
+    key: moe-counter
+    name: Moe Counter
+    tags:
+        - Tool
+    shortDescZh: 多种风格可选的萌萌访客计数器
+    shortDescEn: A cute visitor counter with multiple themes
+    description:
+        en: A cute visitor counter with multiple themes
+        ja: 複数のテーマから選べるかわいい訪問者カウンター
+        zh-Hant: 多種風格可選的萌萌訪客計數器
+        zh: 多种风格可选的萌萌访客计数器
+    type: tool
+    crossVersionUpdate: true
+    limit: 0
+    recommend: 0
+    website: https://count.getloli.com/
+    github: https://github.com/journey-ad/Moe-Counter
+    document: https://github.com/journey-ad/Moe-Counter#how-to-use
+    architectures:
+      - amd64
+      - arm64
